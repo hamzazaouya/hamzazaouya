@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/hamza_zaouya" target="blank"><img src="https://img.shields.io/twitter/follow/hamza_zaouya?logo=twitter&style=for-the-badge" alt="hamza_zaouya" /></a> </p>
 
-- 🔭 I’m currently working on **Inception is a Docker Project.**
+- 🔭 I’m currently working on ** ft_Transcendence Project.**
 
-- 🌱 I’m currently learning **React.js && Node.js**
+- 🌱 I’m currently learning **React.js  Next.js Nodejs**
 
 - 📝 I regularly write articles on [www.zaouya.com](www.zaouya.com)
 
