@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hamza Zaouya (Mr_Y)</h1>
 <h3 align="center">I'm a Software Engineer Student at 1337 School.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+<img align="right" alt="Coding" width="400" src="<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzazaouya&label=Profile%20views&color=0e75b6&style=flat" alt="hamzazaouya" /> </p>
+- 🔭 I’m currently working on **Ft_transcendence (Web Game)**
 
-<p align="left"> <a href="https://twitter.com/hamza_zaouya" target="blank"><img src="https://img.shields.io/twitter/follow/hamza_zaouya?logo=twitter&style=for-the-badge" alt="hamza_zaouya" /></a> </p>
-
-- 🔭 I’m currently working on ** ft_Transcendence Project.**
-
-- 🌱 I’m currently learning **React.js  Next.js Nodejs**
+- 🌱 I’m currently learning **React.js  Next.js**
 
 - 📝 I regularly write articles on [www.zaouya.com](www.zaouya.com)
 
@@ -23,9 +20,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzazaouya&show_icons=true&locale=en&layout=compact" alt="hamzazaouya" /></p>
+## 📈 My Github status
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzazaouya&show_icons=true&locale=en" alt="hamzazaouya" /></p>
+<p align="left">
+  <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/hamzazaouya?cardType=github&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzazaouya&theme=radical" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzazaouya&" alt="hamzazaouya" /></p>
-
+<p align="left">
+   <img width="40%" src="(https://github-readme-stats.vercel.app/api?username=hamzazaouya&show_icons=true&theme=radical" />
+</p>
