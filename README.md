@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza Zaouya (Mr_Y)</h1>
 <h3 align="center">I'm a Software Engineer Student at 1337 School.</h3>
-
-<img align="right" alt="Coding" width="400" src="<img alt="Night Coding" \          src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> " />
+<img align="right" alt="Coding" width="400" src="<img alt="Night Coding"src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> " />
 
 - 🔭 I’m currently working on **Ft_transcendence (Web Game)**
 
