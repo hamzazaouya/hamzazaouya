@@ -1,5 +1,4 @@
 <h3 align="left">Hi There👋</h3>
-<h3 align="left">About</h3>
 
 ```python
     class SoftwareEngineer:
@@ -32,7 +31,7 @@
 
  [![Leetcode Stats](https://leetcard.jacoblin.cool/hamzazaouya18)](https://leetcode.com/hamzazaouya18)
 
- <img alt="Night Coding" width="500" src="https://github.com/hamzazaouya/hamzazaouya/blob/main/imgs/coding.gif" align="right"/>
+ <img alt="Night Coding" width="350" src="https://github.com/hamzazaouya/hamzazaouya/blob/main/imgs/coding.gif" align="right"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hamza_zaouya" target="blank"><img align="center" src="https://github.com/hamzazaouya/hamzazaouya/blob/main/imgs/twitter.svg"          alt="hamza_zaouya" height="30" width="40" /></a>
