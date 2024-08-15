@@ -32,7 +32,7 @@
 
  [![Leetcode Stats](https://leetcard.jacoblin.cool/hamzazaouya18)](https://leetcode.com/hamzazaouya18)
 
- <img alt="Night Coding" width="300" src="https://github.com/hamzazaouya/hamzazaouya/blob/main/imgs/coding.gif" align="right"/>
+ <img alt="Night Coding" width="400" src="https://github.com/hamzazaouya/hamzazaouya/blob/main/imgs/coding.gif" align="right"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hamza_zaouya" target="blank"><img align="center" src="https://github.com/hamzazaouya/hamzazaouya/blob/main/imgs/twitter.svg"          alt="hamza_zaouya" height="30" width="40" /></a>
