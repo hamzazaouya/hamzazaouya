@@ -1,5 +1,5 @@
-<h3 align="center">Hi There👋</h3>
-<h3 align="center">About</h3>
+<h3 align="left">Hi There👋</h3>
+<h3 align="left">About</h3>
 
 ```python
     class SoftwareEngineer:
@@ -27,7 +27,9 @@
     me.currently()
     me.say_thanks()
  ```
- <img alt="Night Coding" width="200" src="https://github.com/hamzazaouya/hamzazaouya/blob/main/imgs/coding.gif" align="right"/>
+
+ <h3 align="left">Leet Code</h3>
+ <img alt="Night Coding" width="230" src="https://github.com/hamzazaouya/hamzazaouya/blob/main/imgs/coding.gif" align="right"/>
 
  [![Leetcode Stats](https://leetcard.jacoblin.cool/hamzazaouya18)](https://leetcode.com/hamzazaouya18)
 
@@ -42,8 +44,8 @@
 <p align="left"> 
 <img src="https://github.com/hamzazaouya/hamzazaouya/blob/main/imgs/c.svg" alt="c" width="40" height="40"/>
 <img src="https://github.com/hamzazaouya/hamzazaouya/blob/main/imgs/cpp.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://github.com/hamzazaouya/hamzazaouya/blob/main/imgs/sql.jpg" alt="mysql" width="40" height="40"/> 
-<img src="https://github.com/hamzazaouya/hamzazaouya/blob/main/imgs/typescript.png" alt="react" width="40" height="40"/>
+<img src="https://github.com/hamzazaouya/hamzazaouya/blob/main/imgs/sql.png" alt="sql" width="40" height="40"/> 
+<img src="https://github.com/hamzazaouya/hamzazaouya/blob/main/imgs/typescript.png" alt="" width="40" height="40"/>
 <img src="https://github.com/hamzazaouya/hamzazaouya/blob/main/imgs/python.png" alt="spring" width="40" height="40"/>
 <img src="https://github.com/hamzazaouya/hamzazaouya/blob/main/imgs/git.png" alt="spring" width="40" height="40"/>
 <img src="https://github.com/hamzazaouya/hamzazaouya/blob/main/imgs/docker.png" alt="spring" width="40" height="40"/>
