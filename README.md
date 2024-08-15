@@ -1,8 +1,6 @@
 <h1 align="center">Hi There👋, I'm Hamza ZAOUYA aka (Hemo)</h1>
 <h3 align="center">Software Engineer</h3>
 
-<img alt="Night Coding" width="350" src="https://github.com/hamzazaouya/hamzazaouya/blob/main/imgs/coding.gif" align="right"/>
-
 ```python
     class SoftwareEngineer:
 
@@ -29,6 +27,8 @@
     me.currently()
     me.say_thanks()
  ```
+
+<img alt="Night Coding" width="350" src="https://github.com/hamzazaouya/hamzazaouya/blob/main/imgs/coding.gif" align="right"/>
 
  [![Leetcode Stats](https://leetcard.jacoblin.cool/hamzazaouya18)](https://leetcode.com/hamzazaouya18)
 
