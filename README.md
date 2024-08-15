@@ -1,7 +1,7 @@
 <h1 align="center">Hi There👋, I'm Hamza ZAOUYA aka (Hemo)</h1>
 <h3 align="center">Software Engineer</h3>
 
-<img alt="Night Coding" width="350" src="https://github.com/hamzazaouya/hamzazaouya/imgs/coding.gif" align="right"/>
+<img alt="Night Coding" width="350" src="https://github.com/hamzazaouya/hamzazaouya/blob/main/imgs/coding.gif" align="right"/>
 
 ```python
     class SoftwareEngineer:
