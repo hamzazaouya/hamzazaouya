@@ -28,9 +28,9 @@
     me.say_thanks()
  ```
 
-<img alt="Night Coding" width="350" src="https://github.com/hamzazaouya/hamzazaouya/blob/main/imgs/coding.gif" align="right"/>
-
  [![Leetcode Stats](https://leetcard.jacoblin.cool/hamzazaouya18)](https://leetcode.com/hamzazaouya18)
+
+ <img alt="Night Coding" width="350" src="https://github.com/hamzazaouya/hamzazaouya/blob/main/imgs/coding.gif" align="right"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
